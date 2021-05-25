@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @duckDominatrix, now I'm doing front-end development
+- 👀 I’m interested in Golang projects
+- 🌱 I’m currently learning C, Golang
+- 💞️ I’m looking to collaborate on Golang projects
+- 📫 How to reach me kononov.itwork@gmail.com
